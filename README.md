@@ -1,6 +1,6 @@
 ![1723190055120](https://github.com/user-attachments/assets/aeef18b0-0929-4b10-9795-8b7ee88fa01e)
 
-AMIT-Basics-Python
+# AMIT-Basics-Python
 
 # Amit Repository
 
